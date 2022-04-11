@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Another line");
     }
     public static void another() {
-        System.out.println("ANOTHER METHOD!");
+        System.out.println("ANOTHER METHOD");
     }
 }
